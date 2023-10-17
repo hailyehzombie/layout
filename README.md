@@ -2,5 +2,4 @@
 Using HTML, Css.
 
 
-
-![screenshot (3)](https://github.com/hailyehzombie/layout/assets/116345254/419a3bc8-d6b1-45b8-8187-ac274677c96c)
+![layout-screenshot](https://github.com/hailyehzombie/layout/assets/116345254/ae714d71-64c7-4309-adcd-18379afb119c)
